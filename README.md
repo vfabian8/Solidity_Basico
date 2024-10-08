@@ -1,2 +1,2 @@
 # Solidity_Basico
-Curso desarrollo educateth solidity
+Curso básico de desarrollo en solidity impartido por educateth
